@@ -1,7 +1,6 @@
-/*
-PRN - 22070123092
-POINTERS IN FUNCTION
-*/
+/*22070123129*/
+/*Varun Pagote*/
+/*ponter*/
 #include<iostream>
 using namespace std;
 
