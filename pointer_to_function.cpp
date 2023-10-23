@@ -1,6 +1,6 @@
 /*22070123129*/
 /*Varun Pagote*/
-/*ponter*/
+/*pointer*/
 #include<iostream>
 using namespace std;
 
